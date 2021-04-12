@@ -32,6 +32,6 @@
 >  
 > * [**클라우드 수집 및 저장 교육.pptx**](https://github.com/kosmo-nestfield/Cloud_Solution/blob/main/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%80%EC%9E%A5%20%EA%B5%90%EC%9C%A1.pptx)  
 >   \- NHN Toast 클라우드 가입, 인스턴스 생성부터 데이터의 시각화 및 모니터링 방법까지 설치 및 실행 방법이 설명된 PPT 문서입니다.  
-\   \- 본 솔루션 구축 시 해당 문서를 참고하셔서 설치를 진행하시면 됩니다.  
+>   \- 본 솔루션 구축 시 해당 문서를 참고하셔서 설치를 진행하시면 됩니다.  
 
   
