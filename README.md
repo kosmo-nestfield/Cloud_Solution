@@ -21,8 +21,7 @@
 > * [**install.tgz**](https://github.com/kosmo-nestfield/Cloud_Solution/blob/main/install.tgz)  
 >   \- 솔루션 설치용 쉘 스크립트입니다. 각 컴포넌트들을 쉘 스크립트 실행을 통해 바로 설치할 수 있으며, 아래 명령어를 통해 전체 파일 설치를 한번에 하실 수 있습니다.
 > ```
-> /root/ 디렉토리 아래에 설치용 쉘 스크립트들을 위치시킨 후  
-> install_all.sh 명령어 실행  
+> /root/ 디렉토리 아래에 설치용 쉘 스크립트들을 위치시킨 후 **./install_all.sh** 명령어 실행  
 > ```
 > * [**opt.tgz**](https://github.com/kosmo-nestfield/Cloud_Solution/blob/main/opt.tgz)  
 >   \- 본 솔루션에서 핵심이 되는 실행파일, 설정파일, 로그 디렉토리, 웹 스크립트 파일이 포함된 압축파일입니다.  
