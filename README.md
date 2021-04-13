@@ -5,7 +5,7 @@
 클라우드 솔루션은 NHN Toast 클라우드에서 인스턴스를 생성하여 개발 및 테스트를 진행하였습니다.  
 상세한 설치 환경 및 방법은 [**클라우드 설치 매뉴얼**](https://github.com/kosmo-nestfield/Cloud_Solution/blob/main/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%80%EC%9E%A5%20%EA%B5%90%EC%9C%A1.pptx) 파일을 참고해주시기 바랍니다.  
   
-## PC 권장 사양  
+## VM 권장 사양  
 * Processor : vCPU 8  
 * Memory : 32GB DRAM  
 * Disk :  
